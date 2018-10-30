@@ -1,4 +1,4 @@
-CREATE TABLE bears (
+"CREATE TABLE bears (
   id INTEGER;
   name TEXT;
   age INTEGER;
@@ -6,4 +6,4 @@ CREATE TABLE bears (
   color TEXT;
   temperament TEXT;
   alive INTEGER;
-);
+);"
